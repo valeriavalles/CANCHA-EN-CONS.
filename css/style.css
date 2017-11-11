@@ -44,7 +44,19 @@
     position: relative;
     bottom: 285px;
     border-radius: 120px;
-    border: 3px solid white;
-    
-    
+    border: 3px solid white; 
+}
+.pelota {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: rgb(206, 199, 199);
+    position: relative;
+    left: 70px;
+    bottom: 185px;
+}
+.dos {
+    position: relative;
+    left: 350px;
+    bottom: 300px;
 }
